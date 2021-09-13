@@ -1,0 +1,42 @@
+
+
+
+h1{
+    color: tomato;
+}
+
+
+body{
+color: yellow;
+background-color: rgb(237, 235, 100);
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+font-weight: bold;
+}
+
+p{
+    color: rgb(97, 50, 205);
+}
+
+.red{
+    color:red;
+    background-color: chartreuse;
+}
+
+#red{
+    background-color: rgb(77, 18, 24);
+    text-transform: uppercase;
+    letter-spacing: 20px;
+}
+.green{
+    color:green;
+    background-color: darkcyan;
+}
+.blue{
+    color:blue;
+}
+
+head{
+    color: blueviolet;
+}
